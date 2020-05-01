@@ -1,0 +1,2 @@
+# Bugs
+Bugtracking für Infinitelife
